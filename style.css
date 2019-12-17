@@ -12,14 +12,15 @@ body {
 .video {
   max-width: 100%;
   height: auto;
+  padding: 10px;
 }
 
 h1 {
-    font-family: 'Garamond';
+    font-family: Garamond;
 }
 
 p {
     padding: 10px;
-    fonta-family: 'Georgia';
+    font-family: Arial, sans-serif;
 }
 
