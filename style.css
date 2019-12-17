@@ -1,5 +1,6 @@
 body {
-    background-image:URL("https://image.freepik.com/free-vector/christmas-background-with-bokeh-snowflakes_1393-207.jpg");
+    background-image: url("https://image.freepik.com/free-vector/christmas-background-with-bokeh-snowflakes_1393-207.jpg");
+    background-color: #cccccc;
 }
 
 .row {
@@ -22,5 +23,9 @@ h1 {
 p {
     padding: 10px;
     font-family: Arial, sans-serif;
+}
+
+.palign {
+    justify-content: center;
 }
 
