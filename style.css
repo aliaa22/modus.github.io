@@ -1,5 +1,5 @@
 body {
-    background-color:#ffff80;
+    background-color:#111;
 }
 h1 {
     text-shadow: 3px 3px #000000;
@@ -8,4 +8,12 @@ h1 {
 video {
   max-width: 100%;
   height: auto;
+}
+
+canvas {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
