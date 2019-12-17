@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #cccccc;
+    padding: 0px 25px; 
 }
 
 .row {
