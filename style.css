@@ -34,5 +34,10 @@ p {
 
 .palign {
     justify-content: center;
+    background-color:#fff;
+    opacity: 0.2;
+    width:600px;
+    height:100%;
+    padding: 10px 30px 10px 0px;
 }
 
