@@ -39,3 +39,12 @@ p {
     padding: 10px 30px 10px 0px;
 }
 
+#inner {
+  display: table;
+  margin: 0 auto;
+}
+
+#outer {
+  width:100%
+}
+
