@@ -1,5 +1,7 @@
 body {
     background-image: url("https://image.freepik.com/free-vector/christmas-background-with-bokeh-snowflakes_1393-207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #cccccc;
 }
 
@@ -18,11 +20,13 @@ body {
 
 h1 {
     font-family: Garamond;
+    font-size: 24px;
 }
 
 p {
     padding: 10px;
     font-family: Arial, sans-serif;
+    font-size: 14px;
 }
 
 .palign {
