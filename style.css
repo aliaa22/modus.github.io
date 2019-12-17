@@ -13,3 +13,13 @@ body {
   height: auto;
 }
 
+h1 {
+    text-align: center;
+    font-family: 'Garamond';
+}
+
+p {
+    padding: 10px;
+    fonta-family: 'Georgia';
+}
+
